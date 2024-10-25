@@ -1,16 +1,6 @@
 # React JS Portfolio Website
 
 <table align="center">
-    <thead align="center">
-        <tr border: 1px;>
-            <td><b>Project Stats</td>
-            <td><b>🌟 Stars</b></td>
-            <td><b>🍴 Forks</b></td>
-            <td><b>🐛 Issues</b></td>
-            <td><b>🔔 Open PRs</b></td>
-            <td><b>🔕 Close PRs</b></td>
-        </tr>
-     </thead>
     <tbody>
          <tr>
             <td><a href="https://github.com/Rasif-Taghizada/My-portfolio"</a>Project</td>
@@ -50,7 +40,4 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 The page will reload if you make edits.
 
 <br />
-Feel free to contribute to this repo.
 
-### Show some ❤️&nbsp; by giving the star :star: to this repository!!
-<h1 align=center> 🧠 Happy Hacking 🧠 </h1>
