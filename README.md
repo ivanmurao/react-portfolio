@@ -1,5 +1,4 @@
 # React JS Portfolio Website
-<br/>
 
 ## Features
 
